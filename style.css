@@ -1,0 +1,23 @@
+.first{
+    
+    border: 2px solid;
+    height: 90vh;
+   
+}
+
+.second{
+   
+    border: 2px solid;
+    height: 90vh;
+    
+}
+.container{
+    margin-top :50px; ;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color:antiquewhite;
+    
+}
+.bg{
+    background-color: solid antiquewhite;
+}
